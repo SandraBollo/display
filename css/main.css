@@ -11,7 +11,7 @@ div{
     width: 25%;
     font-size: 140%;
     margin-top: 3%;
-   
+    display: inline-block;
  }
 
 
