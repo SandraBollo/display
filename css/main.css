@@ -1,0 +1,28 @@
+.uno{
+	 background-color: yellow;
+}
+
+.dos{ 
+	background-color: red;
+}
+
+div{
+	height: 25%;
+    width: 25%;
+    font-size: 140%;
+    margin-top: 3%;
+   
+ }
+
+
+ .pd15{ 
+ 	padding-top: 2%;
+
+ }
+ .pdt15{ 
+ 	padding-left: 2%;
+ }
+ .may{
+ 	text-transform: uppercase;
+ }
+
